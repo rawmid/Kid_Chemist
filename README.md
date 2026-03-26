@@ -68,7 +68,7 @@ KidChemist transforms learning into discovery. By combining gameplay with scient
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 KidChemist makes chemistry fun, interactive, and meaningful—turning memorization into exploration.
 
