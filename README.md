@@ -1,74 +1,71 @@
 #  KidChemist
 
-**KidChemist** is an interactive educational game that teaches the periodic table through logic, play, and curiosity. Instead of memorizing elements, players learn by thinking, questioning, and discovering.
+**KidChemist** is an interactive educational game that teaches the periodic table through logic, play, and curiosity.  
+Instead of memorizing elements, players learn by thinking, questioning, and discovering.
 
 ---
 
 ##  Features
 
-* ** Smart Guessing Game**
-  Play with Blob, who guesses elements using structured yes/no questions.
+- **Smart Guessing Game**  
+  Play with Blob, who identifies elements using structured yes/no questions.
 
-* ** Dual Gameplay Modes**
+- **Dual Gameplay Modes**
+  - *As Player*: Think of an element and let Blob guess it  
+  - *As Blob*: Ask your own questions to identify the element  
 
-  * *As Player*: Think of an element and help Blob guess it
-  * *As Blob*: Ask your own questions to identify elements
+- **Concept-Based Learning**  
+  Understand atomic structure, groups, and periods through interaction—not rote memorization.
 
-* ** Concept-Based Learning**
-  Learn atomic structure, groups, and periods through interaction—not rote memorization
+- **Critical Thinking Focus**  
+  Encourages logical reasoning and meaningful questioning.
 
-* ** Critical Thinking Focus**
-  Encourages logical reasoning and meaningful questioning
-
-* ** Fun & Engaging**
-  Turns chemistry into an enjoyable and interactive experience
+- **Fun & Engaging**  
+  Turns chemistry into an interactive experience.
 
 ---
 
 ##  How It Works
 
-###  As a Player
+### As a Player
+- Think of an element  
+- Answer Blob’s yes/no questions  
+- Watch Blob narrow down and guess the correct element  
 
-* Think of an element
-* Answer Blob’s yes/no questions
-* Watch Blob narrow down and guess correctly
-
-###  As Blob
-
-* Ask questions to identify an element
-* System evaluates your questions
-* Improve your scientific reasoning and logic
+### As Blob
+- Ask questions to identify an element  
+- The system evaluates your questions  
+- Improve your logic and scientific reasoning  
 
 ---
 
 ##  Why KidChemist?
 
-KidChemist transforms learning into discovery. By combining gameplay with scientific concepts, it helps students:
+KidChemist transforms learning into discovery. By combining gameplay with scientific concepts, it helps you:
 
-* Understand the periodic table intuitively
-* Build strong logical thinking skills
-* Stay engaged while learning chemistry
+- Understand the periodic table intuitively  
+- Develop strong logical thinking skills  
+- Stay engaged while learning chemistry  
 
 ---
 
 ##  Tech Stack
 
-* HTML
-* CSS
-* JavaScript
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
 
-##  Future Ideas
+##  Future Plans
 
-* Multiplayer challenge mode
-* Difficulty levels (basic → advanced chemistry)
-* Visual periodic table integration
-* Progress tracking system
+- Multiplayer challenge mode  
+- Difficulty levels (basic → advanced chemistry)  
+- Visual periodic table integration  
+- Progress tracking system  
 
 ---
 
-##  Conclusion
+##  Summary
 
 KidChemist makes chemistry fun, interactive, and meaningful—turning memorization into exploration.
-
