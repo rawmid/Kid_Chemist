@@ -6,7 +6,7 @@ Instead of memorizing elements, players learn by thinking, questioning, and disc
 ---
 
 <p align="center">
-  <img src="Kidchemist Intro Banner.png" alt="KidChemist Banner" width="70%">
+  <img src="KidChemist Banner.png" alt="KidChemist Banner" width="70%">
 </p>
 
 <h1 align="center">KidChemist</h1>
