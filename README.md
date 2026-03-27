@@ -1,7 +1,9 @@
-#  KidChemist
+# KidChemist
 
-**KidChemist** is an interactive educational game that teaches the periodic table through logic, play, and curiosity.  
-Instead of memorizing elements, players learn by thinking, questioning, and discovering.
+KidChemist is an interactive educational game designed to teach the periodic table through logic, play, and curiosity.  
+Powered by an Akinator-style deduction engine, the game leverages structured yes/no queries, elimination strategies, and logical inference to identify elements.
+
+Rather than memorizing data, players engage in active reasoning—learning chemistry through exploration, pattern recognition, and critical thinking.
 
 ---
 
