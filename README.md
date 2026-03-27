@@ -5,6 +5,13 @@ Instead of memorizing elements, players learn by thinking, questioning, and disc
 
 ---
 
+<p align="center">
+  <img src="Kidchemist Intro Banner.png" alt="KidChemist Banner" width="70%">
+</p>
+
+<h1 align="center">KidChemist</h1>
+<p align="center"><b>Think. Guess. Learn.</b></p>
+
 ##  Features
 
 - **Smart Guessing Game**  
